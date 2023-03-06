@@ -1,0 +1,79 @@
+@font-face {
+  font-family: "Kvant-Bold";
+  src: url(./KVANT-TRIAL-BOLD.TTF);
+}
+
+html {
+	height: 100%;
+}
+
+body {
+	margin:0;
+	padding:0;
+	font-family: Verdana, Geneva, sans-serif;
+}
+
+a {
+	text-decoration:none;
+}
+
+ul{
+	padding:0;
+	margin:0;
+}
+
+main{
+	float:left;
+	width:70%;
+	border-right: 1px solid #eeeeee;
+}
+
+footer{
+	clear:both;
+	text-align:center;
+	font-size:.8em;
+	padding-top:50px;
+}
+
+aside section a{
+	display:block;
+	padding: 6px;
+	border-bottom: 1px solid lightgray;
+	color:black;
+}
+
+#container, footer{
+	width:90%;
+	margin: 0 auto;
+	margin-bottom: 60px;
+}
+
+label{
+	display:inline-block;
+	width:150px;
+	text-align:center;
+}
+
+button{
+	margin-left:155px;
+	margin-top:10px;
+}
+
+.formSeparator{
+	margin-top:10px;
+}
+
+.liYellow{
+	background-color:lightyellow;
+}
+
+#records{
+	margin-left: 30px;
+	width: 80%;
+}
+
+#records div:nth-child(even){
+	background-color: lightgray;
+	display: block;
+	margin:5px 0px;
+}
