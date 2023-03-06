@@ -42,12 +42,12 @@ So far I have learned how to make a hamburger menu that toggles the navbar compo
 ### Continued development
 
 So far the landing page is the only portion completed, I still have the following to work on:
--[] About Me
--[] Instagram Gallery
--[] Custom Blog
--[] Diorama page
--[] Future shop page
--[] Footer
+- [] About Me
+- [] Instagram Gallery
+- [] Custom Blog
+- [] Diorama page
+- [] Future shop page
+- [] Footer
 
 ### Useful resources
 
