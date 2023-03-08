@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/jonnys-prop-shop/static/css/main.0ffde1b0.css",
+    "main.js": "/jonnys-prop-shop/static/js/main.e1cf51e8.js",
+    "static/js/787.92192e49.chunk.js": "/jonnys-prop-shop/static/js/787.92192e49.chunk.js",
+    "static/media/KVANT-TRIAL-BOLD.TTF": "/jonnys-prop-shop/static/media/KVANT-TRIAL-BOLD.6d699d84e9c2e734162b.TTF",
+    "index.html": "/jonnys-prop-shop/index.html",
+    "main.0ffde1b0.css.map": "/jonnys-prop-shop/static/css/main.0ffde1b0.css.map",
+    "main.e1cf51e8.js.map": "/jonnys-prop-shop/static/js/main.e1cf51e8.js.map",
+    "787.92192e49.chunk.js.map": "/jonnys-prop-shop/static/js/787.92192e49.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ffde1b0.css",
+    "static/js/main.e1cf51e8.js"
+  ]
+}
