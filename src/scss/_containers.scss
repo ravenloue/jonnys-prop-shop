@@ -28,7 +28,7 @@ header{
 
 nav{
     text-align:justify;
-    background-color: #3f8594;
+    background-color: $darkTeal;
     border-bottom:1px solid gray;
     
     li, a {
@@ -54,3 +54,29 @@ aside{
 	padding-bottom:10px;
 	padding-left: 4px;
 }
+
+.about{
+    font-family: "Kozuka Gothic-B", Verdana, Geneva, Tahoma, sans-serif;
+
+    #vapor_about{
+        float: left;
+        padding-right: 10px;
+        margin: 5px 5px;
+        max-width: 100%;
+    }
+
+    h2{
+        text-align: center;
+        color:$darkTeal;
+    }
+    h5{
+        text-align: center;
+        color: $darkdarkTeal;
+        font-style: italic;
+    }
+    p{
+        padding: 10px;
+        font-size: large;
+    }
+}
+
