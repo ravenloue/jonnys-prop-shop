@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.19608845.css",
-    "main.js": "/static/js/main.f5a281fe.js",
-    "static/js/787.92192e49.chunk.js": "/static/js/787.92192e49.chunk.js",
-    "static/media/KOZGOPR6N-BOLD.OTF": "/static/media/KOZGOPR6N-BOLD.077138250ea5edfddc21.OTF",
-    "static/media/vapor_profile.png": "/static/media/vapor_profile.0831992061ada3f83f5e.png",
-    "static/media/KVANT-TRIAL-BOLD.TTF": "/static/media/KVANT-TRIAL-BOLD.6d699d84e9c2e734162b.TTF",
-    "index.html": "/index.html",
-    "main.19608845.css.map": "/static/css/main.19608845.css.map",
-    "main.f5a281fe.js.map": "/static/js/main.f5a281fe.js.map",
-    "787.92192e49.chunk.js.map": "/static/js/787.92192e49.chunk.js.map"
+    "main.css": "/jonnys-prop-shop/static/css/main.7b345a0d.css",
+    "main.js": "/jonnys-prop-shop/static/js/main.02c95a02.js",
+    "static/js/787.92192e49.chunk.js": "/jonnys-prop-shop/static/js/787.92192e49.chunk.js",
+    "static/media/KOZGOPR6N-BOLD.OTF": "/jonnys-prop-shop/static/media/KOZGOPR6N-BOLD.077138250ea5edfddc21.OTF",
+    "static/media/vapor_profile.png": "/jonnys-prop-shop/static/media/vapor_profile.0831992061ada3f83f5e.png",
+    "static/media/KVANT-TRIAL-BOLD.TTF": "/jonnys-prop-shop/static/media/KVANT-TRIAL-BOLD.6d699d84e9c2e734162b.TTF",
+    "index.html": "/jonnys-prop-shop/index.html",
+    "main.7b345a0d.css.map": "/jonnys-prop-shop/static/css/main.7b345a0d.css.map",
+    "main.02c95a02.js.map": "/jonnys-prop-shop/static/js/main.02c95a02.js.map",
+    "787.92192e49.chunk.js.map": "/jonnys-prop-shop/static/js/787.92192e49.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.19608845.css",
-    "static/js/main.f5a281fe.js"
+    "static/css/main.7b345a0d.css",
+    "static/js/main.02c95a02.js"
   ]
 }
