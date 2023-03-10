@@ -2,6 +2,10 @@
   font-family: "Kvant-Bold";
   src: url(./KVANT-TRIAL-BOLD.TTF);
 }
+@font-face {
+  font-family: "Kozuka Gothic-B";
+  src: url(./KOZGOPR6N-BOLD.OTF);
+}
 html {
   height: 100%;
 }
@@ -128,4 +132,27 @@ aside {
   width: 30%;
   padding-bottom: 10px;
   padding-left: 4px;
+}
+
+.about {
+  font-family: "Kozuka Gothic-B", Verdana, Geneva, Tahoma, sans-serif;
+}
+.about #vapor_about {
+  float: left;
+  padding-right: 10px;
+  margin: 5px 5px;
+  max-width: 100%;
+}
+.about h2 {
+  text-align: center;
+  color: #3f8594;
+}
+.about h5 {
+  text-align: center;
+  color: #2b5e68;
+  font-style: italic;
+}
+.about p {
+  padding: 10px;
+  font-size: large;
 }
