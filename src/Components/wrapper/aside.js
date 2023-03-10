@@ -12,10 +12,10 @@ function Aside(){
 			</section>
 			<section>
 				<h4>Recent Blog Posts</h4>
-				<a href="blog1">Lorem ipsum dolor</a>
-				<a href="blog2">Lectus quam id leo</a>
-				<a href="blog3">Nisi est sit amet</a>
-				<a href="blog4">Vitae elementum</a>
+				<a href="blog">Lorem ipsum dolor</a>
+				<a href="blog">Lectus quam id leo</a>
+				<a href="blog">Nisi est sit amet</a>
+				<a href="blog">Vitae elementum</a>
 			</section>
 		</aside>
     )
