@@ -6,6 +6,9 @@ import insta from './../../images/insta.png';
 import nav from './../../images/nav.png';
 import twitter from './../../images/twitter.png';
 import Navbar from "./nav";
+import { HashRouter, Route } from "react-router-dom";
+import About from "../about/about";
+import Home from "../home/home";
 
 function Header (){
 
@@ -14,7 +17,7 @@ function Header (){
     return(
         <header>
 
-            <a href="/"><img src={ title } id="title" alt="JonnysPropShop" /></a>
+            <a href="/jonnys-prop-shop"><img src={ title } id="title" alt="JonnysPropShop" /></a>
             <button className="ico" onClick={() => setOpen(!open)}>
                 <img src={nav} id="nav" alt="nav menu"/></button>
             <a href="https://www.instagram.com/jonnynumbercinco/" target="_blank" rel="noreferrer"><img src={insta} className="ico" alt="instagram"/></a>
@@ -23,6 +26,13 @@ function Header (){
 
             
                 { open && <Navbar />}
+                <HashRouter basename="/jonnys-prop-shop">
+                    <Route exact path="/about" component={ <About /> } />
+                    <Route exact path="/gallery" component={Home} />
+                    <Route exact path="/blog" component={Home} />
+                    <Route exact path="/dioramas" component={Home} />
+                    <Route exact path="/shop" component={Home} />
+                </HashRouter>
 
         </header>
     )
